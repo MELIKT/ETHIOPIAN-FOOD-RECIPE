@@ -18,4 +18,4 @@ Ethiopian cuisine (Amharic: የኢትዮጵያ ምግብ) characteristically 
 * WEEK 10 Readme file
 * WEEK 16 I will finshed my Project
 
-<p> align="centre"> >><a href="https://melikt.github.io/ETHIOPIAN-FOOD-RECIPE/">demo</p>><<<br><br>
+<p> align="centre">>><a href="https://melikt.github.io/ETHIOPIAN-FOOD-RECIPE/">demo</p>><<<br><br>
